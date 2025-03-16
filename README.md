@@ -1,6 +1,8 @@
 # Models-of-Human-Memory-
 
-This respiratory is the the review of the course: Models of Human Memory
+This respiratory is the the review of the course: Models of Human Memory 
+
+All the code was developed with the guidance of my professor. He is one of the professors I admire the most—an exceptionally intelligent and kind individual with remarkable academic expertise.
 
 ## Assignment 2: 
 ### Task 1 
