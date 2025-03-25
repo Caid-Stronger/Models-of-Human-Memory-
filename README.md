@@ -16,3 +16,7 @@ In essence, this means that high-dimensional vectors are rarely similar to each 
 In this task, we test the robustness of high-dimensional vectors to demonstrate that memory retrieval is possible and that these vectors exhibit high resilience. We use both a binary vector and a normal (continuous) vector, introducing noise to each. For the binary vector, we directly modify entries based on the noise proportion. For the normal vector, we introduce noise by adding a normally distributed perturbation. 
 
 In a nut shell, this means the brain might store memories as high-dimensional vectors, allowing for robust retrieval even with imperfect inputs, which lay the baisc for the later theory: Instance Theory, Hopfield Network. 
+
+
+## Assignment 6 
+In this assignment, we evaluate the capacity of the Hopfield network. P_error represents the probability that a given bit in a pattern becomes unstable and fails to match the target value. By setting P_error below 0.01, we demonstrate that the network's capacity is approximately 0.15 (number of patterns / network size).
